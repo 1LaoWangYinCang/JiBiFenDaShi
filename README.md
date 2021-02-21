@@ -1,6 +1,6 @@
-# XiJunXiaoJin
+# ZhuoCheng Account Book
 
-Xi Jun Xiaojin is an App for booking accounts, recording accounts in daily life, and learning to share basic knowledge.
+ZhuoCheng Account Book is an App for booking accounts, recording accounts in daily life, and learning to share basic knowledge.
 
 - Our APP allows people to easily and conveniently record their accounts and personal contacts in their daily life.
 
@@ -13,4 +13,4 @@ Xi Jun Xiaojin is an App for booking accounts, recording accounts in daily life,
 Use your fingers, take notes, and make a quick appointment!
 
 
-If you have any questions, please contact us as follows :technology_teddd@icloud.com
+If you have any questions, please contact us as follows :nabaixu7@163.com
